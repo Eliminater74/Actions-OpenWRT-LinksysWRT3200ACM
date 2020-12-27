@@ -1,0 +1,80 @@
+## =========================================================================== ##
+# src-git packages https://git.openwrt.org/feed/packages.git
+# src-git luci https://git.openwrt.org/project/luci.git
+# src-git routing https://git.openwrt.org/feed/routing.git
+# src-git telephony https://git.openwrt.org/feed/telephony.git
+# src-git freifunk https://github.com/freifunk/openwrt-packages.git
+## =========================================================================== ##
+###[ https://downloads.openwrt.org/snapshots/targets/mvebu/cortexa9/feeds.buildinfo ]###
+
+src-git packages https://git.openwrt.org/feed/packages.git
+src-git luci https://git.openwrt.org/project/luci.git
+src-git routing https://git.openwrt.org/feed/routing.git
+src-git telephony https://git.openwrt.org/feed/telephony.git
+src-git freifunk https://github.com/freifunk/openwrt-packages.git
+
+#src-git packages https://git.openwrt.org/feed/packages.git^9279a20
+#src-git luci https://git.openwrt.org/project/luci.git^07d9006
+#src-git routing https://git.openwrt.org/feed/routing.git^330a0cc
+#src-git telephony https://git.openwrt.org/feed/telephony.git^9cc7913
+#src-git freifunk https://github.com/freifunk/openwrt-packages.git^98e83ff
+
+## =========================================================================== ##
+
+## =========================================================================== ##
+####################[ DO NOT USE BELOW ]###################
+# src-git video https://github.com/openwrt/video.git
+# src-git targets https://github.com/openwrt/targets.git
+# src-git management https://github.com/openwrt-management/packages.git
+# src-git oldpackages http://git.openwrt.org/packages.git
+# src-link custom /usr/src/openwrt/custom-feed
+## =========================================================================== ##
+
+## =========================================================================== ##
+#################### LUCI THEMES ####################
+
+# luci-theme-opentomato
+src-git opentomato https://github.com/solidus1983/luci-theme-opentomato.git
+
+# luci-theme-infinityfreedom
+src-git infinityfreedom https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom.git
+
+# luci-theme-opentomcat
+#src-git opentomcat https://github.com/Leo-Jo-My/luci-theme-opentomcat.git
+
+# luci-theme-tano
+#src-git tano https://github.com/tano-systems/luci-theme-tano.git
+
+# luci-theme-atmaterial
+#src-git atmaterial https://github.com/toss-a/luci-theme-atmaterial.git
+
+# luci-theme-atmaterial-ColorIcon
+#src-git atmaterial-ColorIcon https://github.com/esirplayground/luci-theme-atmaterial-ColorIcon.git
+
+# luci-theme-Light
+#src-git Light https://github.com/Aslin-Ameng/luci-theme-Light.git
+
+# luci-theme-Night
+#src-git Night https://github.com/Aslin-Ameng/luci-theme-Night.git
+
+# luci-theme-opentopd
+#src-git opentopd https://github.com/sirpdboy/luci-theme-opentopd.git
+
+# luci-theme-xeye
+#src-git xeye https://github.com/yichya/luci-theme-xeye.git
+
+# luci-theme-argon
+#src-git argon https://github.com/jerrykuku/luci-theme-argon.git
+
+# luci-theme-
+#src-git 
+
+# luci-theme-
+#src-git 
+
+# luci-theme-
+#src-git 
+
+# luci-theme-
+#src-git 
+## =========================================================================== ##
